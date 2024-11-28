@@ -6,5 +6,9 @@ public class Main {
         singleDimensionalArray.explainArray();
         singleDimensionalArray.findMaxMinValue();
         singleDimensionalArray.findSumAndAverage();
+        singleDimensionalArray.findCountOfEvenAndOdd();
+        singleDimensionalArray.reverseElementOfArray();
+         singleDimensionalArray.reverseArray();
+        singleDimensionalArray.searchElementInArray();
     }
 }
